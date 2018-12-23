@@ -1,1 +1,3 @@
-This is just a read me file
+# Travel destinations
+
+A simple app to keep track of destinations I'd like to visit.
